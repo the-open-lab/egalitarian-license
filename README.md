@@ -1,2 +1,1 @@
-# license
-The Egalitarian License
+# The Egalitarian License
